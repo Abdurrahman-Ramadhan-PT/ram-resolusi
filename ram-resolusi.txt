@@ -3,4 +3,5 @@ RAM RESOLUSI
 - Menyelesaikan Final Project Eduwork
 - Membuat website pengelolaan Pomodoro Method
 - Ke Surabaya
--Ke Semarang
+- Ke Semarang
+- Mempercantik website personal
